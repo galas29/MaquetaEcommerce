@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre":"NBA jockey chicago bulls",
+            "precio":"2 UF",
+            "descripcion":"nba 59fifty red",
+            "imagen":"/images/NBA/jockey-chicago-bulls-nba-59fifty-red.jpg"
+        },
+        {
+            "id":2,
+            "nombre":"NFL jockey green",
+            "precio":"1,5 UF",
+            "descripcion":"nfl 59fifty dark green",
+            "imagen":"/images/NFL/jockey-green-bay-packers-nfl-59fifty-dark-green.jpg"
+        },
+        {
+            "id":3,
+            "nombre":"MLB jockey boston",
+            "precio":"2,5 UF",
+            "descripcion":"red sox mlb 39thirty",
+            "imagen":"/images/MLB/jockey-boston-red-sox-mlb-39thirty-navy.jpg"
+        },
+        {
+            "id":4,
+            "nombre":"NBA jockey golden state warriors",
+            "precio":"3 UF",
+            "descripcion":"59fifty blue",
+            "imagen":"/images/NBA/jockey-golden-state-warriors-nba-59fifty-blue.jpg"
+        },
+        {
+            "id":5,
+            "nombre":"NFL jockey las vegas",
+            "precio":"2 UF",
+            "descripcion":"raiders nfl 9forty black",
+            "imagen":"/images/NFL/jockey-las-vegas-raiders-nfl-9forty-black.jpg"
+        },
+        {
+            "id":6,
+            "nombre":"MLB jockey los angeles dodgers",
+            "precio":5000,
+            "descripcion":"59fifty grey",
+            "imagen":"/images/MLB/jockey-los-angeles-dodgers-mlb-59fifty-grey.jpg"
+        },
+        {
+            "id":7,
+            "nombre":"NBA jockey golden state warriors",
+            "precio":"2 UF",
+            "descripcion":"9fifty original fit blue",
+            "imagen":"/images/NBA/jockey-golden-state-warriors-nba-9fifty-original-fit-blue.jpg"
+        },
+        {
+            "id":8,
+            "nombre":"NFL jockey new england patriots",
+            "precio":"2,5 UF",
+            "descripcion":"39thirty dark blue",
+            "imagen":"/images/NFL/jockey-new-england-patriots-nfl-39thirty-dark-blue.jpg"
+        },
+        {
+            "id":9,
+            "nombre":"MLB jockey los angeles dodgers",
+            "precio":"3 UF",
+            "descripcion":"9fifty stretch snap dark blue",
+            "imagen":"/images/MLB/jockey-los-angeles-dodgers-mlb-9fifty-stretch-snap-dark-blue.jpg"
+        }
+    ]
+
+}
+
